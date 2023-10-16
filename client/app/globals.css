@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color:#181A2A;
+}
+
+.lottie svg{
+  width: 100px !important;
+  height: 100px !important;
+  cursor: pointer;
+}
+
+.slick-dots {
+  bottom: 23px !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white!important;
+}
+
+.header{
+  /* background: url("https://img.freepik.com/free-vector/dark-pattern-background_1078-81.jpg"); */
+  z-index: -1;
+  background-color: #181a2a00; /* Fallback color in case the image fails to load */
+  background-blend-mode: screen;
+
+}
