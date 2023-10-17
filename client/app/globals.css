@@ -21,9 +21,8 @@ body{
 }
 
 .header{
-  /* background: url("https://img.freepik.com/free-vector/dark-pattern-background_1078-81.jpg"); */
   z-index: -1;
-  background-color: #181a2a00; /* Fallback color in case the image fails to load */
+  background-color: #1d1616; 
   background-blend-mode: screen;
 
 }

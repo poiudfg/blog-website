@@ -18,16 +18,18 @@ const NavBar = () => {
               width={70}
               className="lottie"
             />
-            <p className="font-bold uppercase text-[20px] hover:text-purple-900">
+            <p className="font-bold uppercase text-[20px] hover:text-blue-300">
               Blogs
             </p>
             </div>
       </Link>
       <nav className="flex items-center gap-[35px] cursor-pointer list-none">
+      <Link href="/">
           <li className="hover:border-b-[0.5px]">Home</li>
-          <li className="hover:border-b-[0.5px]">Blog</li>
-          <li className="hover:border-b-[0.5px]">Pages</li>
-          <li className="hover:border-b-[0.5px]">Contact</li>
+          </Link>
+          <Link href="/About">
+          <li className="hover:border-b-[0.5px]">About</li>
+          </Link>
         </nav>
         <div>
           <div className="flex items-center max-w-[166px] bg-[#242535] pr-[8px] py-[5px]">
