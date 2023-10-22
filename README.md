@@ -14,7 +14,7 @@ To install the project on your computer
 cd client
 npm install
 ```
-details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/backend/README.md)
+and Getting Started details as followss [link](https://github.com/pongsapak-suwa/blog-website/blob/main/client/README.md)
 
 ## strapi
  * install node_moudule in folder name `backend`
@@ -23,4 +23,4 @@ details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/ma
 cd backend
 npm install
 ```
-and Getting Started as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/client/README.md)
+and Getting Started details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/backend/README.md)
