@@ -8,12 +8,19 @@
 To install the project on your computer
 
 ## next js
-details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/backend/README.md)
-
-## strapi
  * install node_moudule in folder name `client`
 
 ```bash
+cd client
+npm install
+```
+details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/backend/README.md)
+
+## strapi
+ * install node_moudule in folder name `backend`
+
+```bash
+cd backend
 npm install
 ```
 and Getting Started as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/client/README.md)
