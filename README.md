@@ -11,7 +11,7 @@ To install the project on your computer
 details as follows [link](https://github.com/pongsapak-suwa/blog-website/blob/main/backend/README.md)
 
 ## strapi
- * install node_moudule
+ * install node_moudule in folder name `client`
 
 ```bash
 npm install
